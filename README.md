@@ -2,6 +2,12 @@
 
 This project is a non-functioning clone of Spotify's website, created using HTML and CSS. It aims to replicate the visual design and layout of certain sections of Spotify's web player.
 
+## Live Demo
+
+Check out the live version of the project:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Here-blue)](https://spotify-clone-vp.vercel.app/)
+
 ## Technologies Used
 
 - HTML: Used for structuring the web pages.
