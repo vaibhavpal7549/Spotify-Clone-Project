@@ -38,7 +38,6 @@ const songs = [
   const playButton = document.querySelector(".player-control-icon:nth-child(3)");
   const prevButton = document.querySelector(".player-control-icon:nth-child(2)");
   const nextButton = document.querySelector(".player-control-icon:nth-child(4)");
-  //const volumeSlider = document.getElementById("volume");
   const audio = new Audio();
   const albumPic = document.querySelector(".album-pic");
   const albumName = document.querySelector(".abt-1");
@@ -92,10 +91,6 @@ const songs = [
     playButton.src = "./assets/video-pause-button-removebg-preview-fotor-20250128212449.png";
   }
 
-  // // Volume Scroll Functionality
-  // volumeSlider.addEventListener("input", () => {
-  //   audio.volume = volumeSlider.value / 100; // Assuming the slider value ranges from 0 to 100
-  // });
   
   // Update Progress Bar
   audio.addEventListener("timeupdate", () => {
