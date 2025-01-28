@@ -6,6 +6,7 @@ This project is a non-functioning clone of Spotify's website, created using HTML
 
 - HTML: Used for structuring the web pages.
 - CSS: Used for styling and layout.
+- JS: Used for some functionality.
 
 ## Font and Icons
 
@@ -23,3 +24,8 @@ This clone project includes:
 - Responsive design for different screen sizes.
 - Styled cards to display music content.
 - A footer section with a decorative line.
+
+---
+
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
