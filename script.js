@@ -28,7 +28,14 @@ const songs = [
         artist: "Ritik Mishra, Khushi Kakkar",
         src: "./songs/Jila Jaunpur Hau Ka Re.mp3",
         cover: "./assets/jila_jaunpur.jpg",
-      }
+      },
+      
+      {
+        name: "Lyrical | Saiyaara Reprise - Female Song",
+        artist: "Ahaan, Aneet,Tanishk, Faheem, Arslan",
+        src: "./songs/Saiyaara_female_version.mp3",
+        cover: "./assets/saiyaara.jpg",
+        }
   ];
   
   let currentSongIndex = 0;
