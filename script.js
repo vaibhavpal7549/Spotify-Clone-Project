@@ -31,7 +31,7 @@ const songs = [
       },
       
       {
-        name: "Lyrical | Saiyaara Reprise - Female Song",
+        name: "Saiyaara Reprise - Female Song",
         artist: "Ahaan, Aneet,Tanishk, Faheem, Arslan",
         src: "./songs/Saiyaara_female_version.mp3",
         cover: "./assets/saiyaara.jpg",
